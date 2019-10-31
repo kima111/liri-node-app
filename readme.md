@@ -20,13 +20,13 @@ below are commands and a few screenshots of what the ouput of those commands are
 
 *  `node liri.js spotify-this-song '<song name here>'`
 
-<img src = "./spotify_this_song_example.PNG>
+<img src = "./spotify_this_song_example.PNG">
 
 *  `node liri.js movie-this '<movie name here>'`
 
 *  `node liri.js do-what-it-says`
 
-<img src = "./do_what_it_says_example.PNG>
+<img src = "./do_what_it_says_example.PNG">
 
 do what it says takes the command within random.txt and outputs the data to the command line interface. 
 
