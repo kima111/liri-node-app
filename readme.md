@@ -2,16 +2,16 @@
 
 This is a command line interface program that runs with node.js; which will console out different information dependent on what is entered. For example, if you type `node liri.js movie-this '<movie name here>'` it will tell you the following information: 
 
-   ```
-       * Title of the movie.
-       * Year the movie came out.
-       * IMDB Rating of the movie.
-       * Rotten Tomatoes Rating of the movie.
-       * Country where the movie was produced.
-       * Language of the movie.
-       * Plot of the movie.
-       * Actors in the movie.
-     ```
+
+* Title of the movie.
+* Year the movie came out.
+* IMDB Rating of the movie.
+* Rotten Tomatoes Rating of the movie.
+* Country where the movie was produced.
+* Language of the movie.
+* Plot of the movie.
+* Actors in the movie.
+  
 below are commands that work with liri:
 
 *  `node liri.js concert-this <artist/band name here>`
